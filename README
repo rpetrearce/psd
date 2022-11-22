@@ -1,0 +1,5 @@
+Los audios se describen a continuación. 
+El archivo arte es la señal de voz original.
+Los archivos interferente e interferente2 son las señales interferentes o ruidos que interactuan con la señal de audio.
+Los archivos mic2 y mic2 son las señales obtenidas por los sensores (sin filtar).
+Los archivos rec1, rec2 y rec3 son los audios obtenidos después de usar DAS, MVDR y LCMV respectivamente.
